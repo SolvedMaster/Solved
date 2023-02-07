@@ -30,6 +30,7 @@ public class Main{
 
 ---
 
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmnm3)](https://solved.ac/mmnm3)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgus4560)](https://solved.ac/rkdgus4560)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladmstj14)](https://solved.ac/rladmstj14)
@@ -48,8 +49,6 @@ public class Main{
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghddbqls)](https://solved.ac/ghddbqls)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=suniie)](https://solved.ac/suniie)
 
-
-<!--
 <details>
 <summary>MEMBER</summary>
 <div markdown="1">
