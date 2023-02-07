@@ -18,6 +18,10 @@ public class Main{
 
 ---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdqudgns)](https://solved.ac/thdqudgns)
+
+
+
 <!--
 <details>
 <summary>MEMBER</summary>
