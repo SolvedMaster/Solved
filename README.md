@@ -18,7 +18,15 @@ public class Main{
 
 ---
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anwjr41)](https://solved.ac/anwjr41)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haha0691)](https://solved.ac/haha0691)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdqudgns)](https://solved.ac/thdqudgns)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gleehave)](https://solved.ac/gleehave)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=docob)](https://solved.ac/docob)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldnr789)](https://solved.ac/dldnr789)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k3371548)](https://solved.ac/k3371548)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=worend365)](https://solved.ac/worend365)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd5126)](https://solved.ac/wjd5126)
 
 
 
