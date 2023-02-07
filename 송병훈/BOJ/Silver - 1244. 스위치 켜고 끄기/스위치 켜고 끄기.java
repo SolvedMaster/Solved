@@ -12,9 +12,9 @@ public class Main {
 		N = Integer.parseInt(br.readLine());
 		StringBuilder sb = new StringBuilder();
 		
-		switchs = new int[N];
+		switchs = new int[N+1];
 		StringTokenizer st = new StringTokenizer(br.readLine());
-		for (int i = 0; i < N; i++) {
+		for (int i = 1; i < N+1; i++) {
 			switchs[i] = Integer.parseInt(st.nextToken());
 		}
 		
@@ -27,13 +27,13 @@ public class Main {
 			
 			// switchs는 static이라 안 넘겨도 된다. 성별은 메소드를 특정했으니 상관없다.
 			if (gender == 1) manChange(num);	
-			else womanChange(num-1, 0);		// 스위치의 번호는 0이 아니라, 1부터 시작하므로 index를 하나 감소시켜 넘긴다.
+			else womanChange(num, 0);		// 스위치의 번호는 0이 아니라, 1부터 시작하므로 index를 하나 감소시켜 넘긴다.
 		}
 		
 		//20줄씩 출력해야 한다.
-		for (int i = 0; i < switchs.length; i++) {
+		for (int i = 1; i < switchs.length; i++) {
 			sb.append(switchs[i]).append(" ");
-			if ((i+1) % 20 == 0) sb.append('\n');	// 스위치의 번호는 0이 아니라, 1부터 시작하므로 i+1 을 나눈다.
+			if ((i) % 20 == 0) sb.append('\n');	// 스위치의 번호는 0이 아니라, 1부터 시작하므로 i+1 을 나눈다.
 		}
 		
 		System.out.println(sb);
@@ -45,10 +45,8 @@ public class Main {
 	 * @param num - 자기 번호
 	 */
 	private static void manChange(int num) {
-		for (int i = 0; i < switchs.length; i++) {
-			if ((i+1) % num == 0) {	// 스위치의 번호는 0이 아니라, 1부터 시작하므로 i+1 을 나눈다.
-				change(i);
-			}
+		for (int i = num; i < switchs.length; i += num) {
+				switchs[i] ^= 1;	// 0 XOR 1 = 1, 1 XOR 1 = 0
 		}
 	}
 
@@ -57,30 +55,19 @@ public class Main {
 	 * @param num - 자기 번호
 	 */
 	private static void womanChange(int num, int cnt) {
-		if (num - cnt < 0 || num + cnt >= switchs.length) return;	// index가 범위를 벗어나면 종료
+		if (num - cnt < 1 || num + cnt >= switchs.length) return;	// index가 범위를 벗어나면 종료
 		
 		if (switchs[num + cnt] != switchs[num - cnt]) {		// 대칭이 아니라면 종료
 			return;
 		} else {
 			// 대칭이라면 바꾼다. 단, cnt가 0이라면 한번만 바꾼다.
 			if (cnt == 0) {
-				change(num);	
+				switchs[num] ^= 1;			// 0 XOR 1 = 1, 1 XOR 1 = 0
 			} else {
-				change(num + cnt);	
-				change(num - cnt);	
+				switchs[num + cnt] ^= 1;	// 0 XOR 1 = 1, 1 XOR 1 = 0
+				switchs[num - cnt] ^= 1;	// 0 XOR 1 = 1, 1 XOR 1 = 0
 			}
 		}
 		womanChange(num, cnt+1);
-	}
-
-	/**
-	 * 0이면 1로, 1이면 0으로 바꾸는 메소드
-	 * @param index
-	 */
-	private static void change(int index) {
-		if (switchs[index] == 0) 
-			switchs[index] = 1;
-		else 
-			switchs[index] = 0;
 	}
 }
