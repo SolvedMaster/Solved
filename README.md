@@ -24,7 +24,7 @@ public class Main{
   <ul>
     <li><a href="https://github.com/SolvedMaster/Solved/tree/master/rldehdals"><strong>김동민</strong></a></li>
     <li><a href="https://github.com/SolvedMaster/Solved/tree/master/rlagkdud"><strong>김하영</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/thdqudgns"><strong>송병훈</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/%EC%86%A1%EB%B3%91%ED%9B%88"><strong>송병훈</strong></a></li>
     <li><a href="https://github.com/SolvedMaster/Solved/tree/master/dlrkdgh"><strong>이강호</strong></a></li>
     <li><a href="https://github.com/SolvedMaster/Solved/tree/master/dlwldud"><strong>이지영</strong></a></li>
     <li><a href="https://github.com/SolvedMaster/Solved/tree/master/dlgusdnr"><strong>이현욱</strong></a></li>
