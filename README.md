@@ -24,14 +24,14 @@ public class Main{
 <summary>MEMBER</summary>
 <div markdown="1">
   <ul>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/rldehdals"><strong>김동민</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/rlagkdud"><strong>김하영</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/thdqudgns"><strong>thdqudgns</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/dlrkdgh"><strong>이강호</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/dlgusdnr"><strong>이현욱</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/wjdals"><strong>정민</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/wjdtnwjd"><strong>정수정</strong></a></li>
-    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/src/solved/wjdgudwns"><strong>정형준</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/rldehdals"><strong>김동민</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/rlagkdud"><strong>김하영</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/thdqudgns"><strong>송병훈</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/dlrkdgh"><strong>이강호</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/dlgusdnr"><strong>이현욱</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/wjdals"><strong>정민</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/wjdtnwjd"><strong>정수정</strong></a></li>
+    <li><a href="https://github.com/SolvedMaster/Solved/tree/master/wjdgudwns"><strong>정형준</strong></a></li>
   </ul>
 </div>
 </details> 
