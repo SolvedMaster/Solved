@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Main {
-	static int N, S;		// 스위치 수, 학생 수 -> 고정
+	static int N, S;	// 스위치 수, 학생 수 -> 고정
 	static int[] switchs;	// 스위치 상태 -> 변함
 	static int gender, num;	// 성별, 번호 -> 입력 받을 때마다 덮어씌울 예정
 	public static void main(String[] args) throws NumberFormatException, IOException {
@@ -27,19 +27,18 @@ public class Main {
 			
 			// switchs는 static이라 안 넘겨도 된다. 성별은 메소드를 특정했으니 상관없다.
 			if (gender == 1) manChange(num);	
-			else womanChange(num, 0);		// 스위치의 번호는 0이 아니라, 1부터 시작하므로 index를 하나 감소시켜 넘긴다.
+			else womanChange(num, 0);
 		}
 		
 		//20줄씩 출력해야 한다.
 		for (int i = 1; i < switchs.length; i++) {
 			sb.append(switchs[i]).append(" ");
-			if ((i) % 20 == 0) sb.append('\n');	// 스위치의 번호는 0이 아니라, 1부터 시작하므로 i+1 을 나눈다.
+			if (i % 20 == 0) sb.append('\n');
 		}
 		
 		System.out.println(sb);
 	}
 	
-	// 결과를 반환할 필요없이, switchs를 변경하기만 하면 된다.
 	/**
 	 * 남자 : 자기 번호의 배수인 스위치의 상태를 뒤집는다.
 	 * @param num - 자기 번호
@@ -62,7 +61,7 @@ public class Main {
 		} else {
 			// 대칭이라면 바꾼다. 단, cnt가 0이라면 한번만 바꾼다.
 			if (cnt == 0) {
-				switchs[num] ^= 1;			// 0 XOR 1 = 1, 1 XOR 1 = 0
+				switchs[num] ^= 1;		// 0 XOR 1 = 1, 1 XOR 1 = 0
 			} else {
 				switchs[num + cnt] ^= 1;	// 0 XOR 1 = 1, 1 XOR 1 = 0
 				switchs[num - cnt] ^= 1;	// 0 XOR 1 = 1, 1 XOR 1 = 0
