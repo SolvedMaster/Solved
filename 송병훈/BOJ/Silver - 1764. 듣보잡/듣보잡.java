@@ -31,10 +31,10 @@ public class Q1764 {
 			String tmp = br.readLine();
 			// getOrDefault() :  
 			// map에 첫번째 인자가 있으면 그에 해당하는 value를 반환하고	-> 1 반환 
-			// 없으면 두번째 인자를 반환한다.						-> 0 반환
+			// 없으면 두번째 인자를 반환한다.	-> 0 반환
 			if (map.getOrDefault(tmp, 0) == 1) {	// 이미 있어서 1을 반환하면
-				cnt++;			// 이미 있으므로 개수를 세고
-				name.add(tmp);	// name이라는 List에 넣는다.
+				cnt++;				// 이미 있으므로 개수를 세고
+				name.add(tmp);			// name이라는 List에 넣는다.
 			}
 		}
 		Collections.sort(name);	// 사전순 출력을 위해 정렬한다.
@@ -43,6 +43,6 @@ public class Q1764 {
 		for(String result : name) {
 			sb.append(result).append('\n');	// 빠른 출력을 위해 StringBuilder에 삽입
 		}
-		System.out.println(sb);				// 한 번만 출력함
+		System.out.println(sb);			// 한 번만 출력함
 	}
 }
