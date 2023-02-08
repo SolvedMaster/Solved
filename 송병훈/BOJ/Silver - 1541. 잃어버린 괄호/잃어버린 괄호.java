@@ -17,8 +17,8 @@ public class Main {
 				results[i] = Integer.parseInt(inputs[i]);
 			}
 		}
-    // results[0] 에서 뒤의 수들을 뺀 값이 최솟값이 된다.
-    // 빼는 이유는 - 를 기준으로 나눴기 때문이다.
+    		// results[0] 에서 뒤의 수들을 뺀 값이 최솟값이 된다.
+    		// 빼는 이유는 - 를 기준으로 나눴기 때문이다.
 		int result = results[0];
 		if (results.length > 1) {
 			for (int i = 1; i < results.length; i++) {
@@ -27,7 +27,7 @@ public class Main {
 		}
 		System.out.println(result);
 	}
-  // + 를 기준으로 다시 구분하여, 각 원소를 더하는 메소드 -> 더한 값을 반환한다.
+  	// + 를 기준으로 다시 구분하여, 각 원소를 더하는 메소드 -> 더한 값을 반환한다.
 	private static int change(String input) {
 		String[] tmp = input.split("\\+");  // + 를 구분자로 사용할 때는 // 를 앞에 넣어줘야 한다.
 		int sum = 0;
