@@ -33,7 +33,7 @@ public class Main{
 - 목표 : solved.ac Class 1 ~ 3 문제 풀이
 - 사용 도구 : MatterMost Board, 백준 그룹
 <details>
-<summary>MEMBER</summary>
+<summary>MatterMost Board, 백준 그룹</summary>
 <div markdown="1">
   <ul>
     <img src="https://user-images.githubusercontent.com/92148521/222338945-1ae31b75-a95d-4ee8-a2b9-b3ca3e5fbfd3.png" width="600" height="300"/>
@@ -54,11 +54,11 @@ public class Main{
 ## 2월 7일 ~ 2월 28일 풀이 결과  
 
 <details>
-<summary>MEMBER</summary>
+<summary>2월 7일 ~ 2월 28일 풀이 결과</summary>
 <div markdown="1">
   <ul>
-    <img src="https://user-images.githubusercontent.com/92148521/222338624-744e3265-3e70-441b-961c-3b2552ad09c6.png" width="600" height="900"/>
-    <img src="https://user-images.githubusercontent.com/92148521/222338640-18fe1d95-26e5-45c9-b948-852c764d8957.png" width="600" height="900"/>
+    <img src="https://user-images.githubusercontent.com/92148521/222338624-744e3265-3e70-441b-961c-3b2552ad09c6.png" width="600" height="800"/>
+    <img src="https://user-images.githubusercontent.com/92148521/222338640-18fe1d95-26e5-45c9-b948-852c764d8957.png" width="600" height="800"/>
   </ul>
 </div>
 </details> 
