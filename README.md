@@ -26,7 +26,7 @@
 ## 1월 16일 ~ 2월 28일 풀이 결과  
 
 <details>
-<summary>백준 티어 변화 이미지</summary>
+<summary>백준 티어 변화 이미지(2/7, 3/2)</summary>
 <div markdown="1">
   <ul>
     <img src="https://user-images.githubusercontent.com/92148521/222338624-744e3265-3e70-441b-961c-3b2552ad09c6.png" width="600" height="600"/>
