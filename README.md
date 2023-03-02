@@ -49,6 +49,19 @@
 - 정수정 (Silver2) 95문제 -> (Gold4) 162문제 : **67문제 해결**
 - 정형준 (Gold3) 196문제 -> (Gold1) 251문제 : **55문제 해결**
 
+---
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anwjr41)](https://solved.ac/anwjr41)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haha0691)](https://solved.ac/haha0691)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdqudgns)](https://solved.ac/thdqudgns)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gleehave)](https://solved.ac/gleehave)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldnr789)](https://solved.ac/dldnr789)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k3371548)](https://solved.ac/k3371548)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=worend365)](https://solved.ac/worend365)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd5126)](https://solved.ac/wjd5126)
+
+---
+
 - #### 백준 사용방법: 
   
 ```java
@@ -64,19 +77,6 @@ public class Main{
 - #### 클래스 명명 규칙:    
   - 숫자로 시작하면 안된다.
   - 첫문자는 대문자로 한다.
-
----
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anwjr41)](https://solved.ac/anwjr41)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haha0691)](https://solved.ac/haha0691)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=thdqudgns)](https://solved.ac/thdqudgns)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gleehave)](https://solved.ac/gleehave)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dldnr789)](https://solved.ac/dldnr789)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=k3371548)](https://solved.ac/k3371548)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=worend365)](https://solved.ac/worend365)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wjd5126)](https://solved.ac/wjd5126)
-
----
 
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmnm3)](https://solved.ac/mmnm3)
