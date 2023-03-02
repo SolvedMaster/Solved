@@ -32,11 +32,10 @@ public class Main{
 ## 1월 16일 ~ 2월 27일 과정 :
 - 목표 : solved.ac Class 1 ~ 3 문제 풀이
 - 사용 도구 : MatterMost Board, 백준 그룹
-![Image Pasted at 2023-3-2 14-10](https://user-images.githubusercontent.com/92148521/222338945-1ae31b75-a95d-4ee8-a2b9-b3ca3e5fbfd3.png)
-![Image Pasted at 2023-3-2 14-11](https://user-images.githubusercontent.com/92148521/222338958-05c21c94-d785-4038-9777-84082221f258.png)
-![Image Pasted at 2023-3-2 14-12 (1)](https://user-images.githubusercontent.com/92148521/222338986-a027a40f-5001-4da7-ab21-f56ca30aebef.png)
-![image](https://user-images.githubusercontent.com/92148521/222339057-37980fba-e3c6-4c2f-aafe-d06080a26430.png)
-![Image Pasted at 2023-3-2 14-12](https://user-images.githubusercontent.com/92148521/222339104-78eb6688-56a6-4661-a069-8c02daffce91.png)
+![Image Pasted at 2023-3-2 14-10](https://user-images.githubusercontent.com/92148521/222338945-1ae31b75-a95d-4ee8-a2b9-b3ca3e5fbfd3.png){: width="200" height="150"}
+![Image Pasted at 2023-3-2 14-11](https://user-images.githubusercontent.com/92148521/222338958-05c21c94-d785-4038-9777-84082221f258.png){: width="200" height="150"}
+![image](https://user-images.githubusercontent.com/92148521/222339057-37980fba-e3c6-4c2f-aafe-d06080a26430.png){: width="200" height="150"}
+![Image Pasted at 2023-3-2 14-12](https://user-images.githubusercontent.com/92148521/222339104-78eb6688-56a6-4661-a069-8c02daffce91.png){: width="200" height="400"}
 
 
 ## 2월 7일 ~ 2월 28일 풀이 결과  
