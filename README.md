@@ -29,6 +29,16 @@ public class Main{
 
 ---
 
+## 2월 7일 ~ 2월 28일 풀이 기록
+- ### 김동민 (Silver3) 96문제 -> (Silver1) 121문제 : 25문제 해결
+- ### 김하영 (Silver3) 89문제 -> (Silver1) 134문제 : 45문제 해결
+- ### 송병훈 (Silver3) 90문제 -> (Silver1) 258문제 : 168문제 해결
+- ### 이강호 (Silver3) 107문제 -> (Silver1) 153문제 : 46문제 해결
+- ### 이현욱 (Silver3) 160문제 -> (Silver1) 206문제 : 46문제 해결
+- ### 정 민  (Silver3) 0문제 -> (Silver1) 153문제 : 153문제 해결
+- ### 정수정 (Silver3) 95문제 -> (Silver1) 162문제 : 67문제 해결
+- ### 정형준 (Silver3) 196문제 -> (Silver1) 251문제 : 55문제 해결
+
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mmnm3)](https://solved.ac/mmnm3)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdgus4560)](https://solved.ac/rkdgus4560)
