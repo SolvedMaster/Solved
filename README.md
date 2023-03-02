@@ -1,4 +1,5 @@
 # Solved
+![20230209_202754](https://user-images.githubusercontent.com/92148521/222344952-3174db27-856a-4306-bbb8-e0d8c047d072.jpg)
 
 ## 1월 16일 ~ 2월 27일 과정 :
 - 목표 : solved.ac Class 1 ~ 3 문제 풀이
